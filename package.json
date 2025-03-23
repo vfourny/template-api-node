@@ -22,15 +22,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vfourny/nodejs-pokedex-api.git"
+    "url": "git+https://github.com/vfourny/template-api-node.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/vfourny/nodejs-pokedex-api/issues"
-  },
-  "homepage": "https://github.com/vfourny/nodejs-pokedex-api#readme",
   "dependencies": {
     "@prisma/client": "^6.1.0",
     "@types/jsonwebtoken": "^9.0.7",
