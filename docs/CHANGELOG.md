@@ -1,3 +1,14 @@
+## [1.0.1](https://github.com/vfourny/template-api-node/compare/v1.0.0...v1.0.1) (2025-03-24)
+
+
+### Bug Fixes
+
+* add ([#21](https://github.com/vfourny/template-api-node/issues/21)) ([e6bc3ea](https://github.com/vfourny/template-api-node/commit/e6bc3ea8d477c8f2e37fd7135e97464682661989))
+* add semantic bot credentials ([#22](https://github.com/vfourny/template-api-node/issues/22)) ([ebb1a79](https://github.com/vfourny/template-api-node/commit/ebb1a792941b690441e779c6c5ce0397289492f1))
+* remove ci ([f45eb52](https://github.com/vfourny/template-api-node/commit/f45eb52b8b992f4ff61ca4c1b4e11d15355bef07))
+* remove husky ([4a47e76](https://github.com/vfourny/template-api-node/commit/4a47e765098bc13b18d5148be6321e31c79eae1e))
+* renove husky from ci ([#20](https://github.com/vfourny/template-api-node/issues/20)) ([138c904](https://github.com/vfourny/template-api-node/commit/138c904bddfa54643d21917e7438bb793e83508c))
+
 # 1.0.0 (2025-03-23)
 
 ### Bug Fixes
