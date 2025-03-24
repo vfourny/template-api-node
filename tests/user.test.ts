@@ -57,7 +57,10 @@ describe('User API', () => {
       expect(response.status).toBe(200)
       expect(response.body).toEqual({
         token,
-        message: 'Connexion réussie',
+        user: {
+          id: user.id,
+          email: user.email,
+        },
       })
     })
 
