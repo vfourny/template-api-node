@@ -1,4 +1,4 @@
-name: Build
+name: PullRequest
 
 on:
   pull_request:
@@ -27,6 +27,9 @@ jobs:
 
       - name: Check types
         run: npm run type-check
+
+      - name: Test
+        run: npm test
 
       - name: Build
         run: npm run build
