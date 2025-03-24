@@ -25,7 +25,7 @@
     "url": "git+https://github.com/vfourny/template-api-node.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Valentin FOURNY",
   "license": "ISC",
   "dependencies": {
     "@prisma/client": "^6.1.0",
