@@ -1,5 +1,5 @@
 {
-  "name": "template-api-node",
+  "name": "template-api-nod",
   "version": "1.0.0",
   "description": "Nous allons tâcher de créer une API permettant d'effectuer des opérations CRUD sur les pokémons. Ce projet sera réalisé avec Express pour la gestion des routes et avec une base de donnée NoSQL.",
   "main": "build/index.js",
